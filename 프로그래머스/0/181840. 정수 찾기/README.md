@@ -1,6 +1,6 @@
 # [level 0] 정수 찾기 - 181840 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181840?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181840) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 22일 01:54:58
+2024년 06월 22일 18:11:13
 
 ### 문제 설명
 
